@@ -64,9 +64,9 @@ const siteConfig = {
       },
       items: [
         { to: 'docs/getting-started', label: 'Docs', position: 'right' },
-        { to: 'blog/index', label: 'blog', position: 'right' },
-        { to: 'pages/index', label: 'pages', position: 'right' },
-        { to: 'sitemap/index', label: 'sitemap', position: 'right' },
+        { to: 'blog', label: 'blog', position: 'right' },
+        { to: 'pages', label: 'pages', position: 'right' },
+        { to: 'sitemap', label: 'sitemap', position: 'right' },
         { href: 'https://e.543x.com', label: 'Help', position: 'right' },
         { href: 'https://www.github.com/facebook/create-react-app', label: 'GitHub', position: 'right' },
       ],
